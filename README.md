@@ -1,25 +1,24 @@
-my-next-app/
-├── .next/                     # Build output (auto-generated, don't edit)
-├── node_modules/              # Installed npm packages
-├── public/                    # Static assets like images, favicon
-│   └── favicon.ico
-│
-├── src/                       # Source code folder
-│   └── app/                   # App router directory
-│       ├── layout.tsx        # Global layout (wrapper, themes)
-│       ├── page.tsx          # Home route
-│       └── (other routes)
-│
-├── .gitignore                 # Files and folders to ignore in Git
-├── eslint.config.mjs         # ESLint rules and plugins
-├── next-env.d.ts             # TypeScript declarations for Next.js
-├── next.config.ts            # Next.js config (redirects, images, etc.)
-├── package.json              # Project metadata and dependencies
-├── package-lock.json         # NPM dependency lock file
-├── postcss.config.mjs        # PostCSS config for Tailwind CSS
-├── tailwind.config.ts        # Tailwind CSS theme and plugin setup
-├── tsconfig.json             # TypeScript config
-├── README.md                 # Project overview and instructions
+# my-next-app/
+    1. next/                     # Build output (auto-generated, don't edit)
+    2. node_modules/              # Installed npm packages
+    3. public/                    # Static assets like images, favicon
+        1. favicon.ico
+
+    4.src/                       # Source code folder
+        1. app/                   # App router directory
+        2. layout.tsx        # Global layout (wrapper, themes)
+        3. page.tsx          # Home route
+        4. (other routes)
+    5. .gitignore                 # Files and folders to ignore in Git
+    6. eslint.config.mjs         # ESLint rules and plugins
+    7. next-env.d.ts             # TypeScript declarations for Next.js
+    8. next.config.ts            # Next.js config (redirects, images, etc.)
+    9. package.json              # Project metadata and dependencies
+    10. package-lock.json         # NPM dependency lock file
+    11. postcss.config.mjs        # PostCSS config for Tailwind CSS
+    12. tailwind.config.ts        # Tailwind CSS theme and plugin setup
+    13. tsconfig.json             # TypeScript config
+    14. README.md                 # Project overview and instructions
 
 
 # First Next.js Project 🚀
